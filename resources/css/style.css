@@ -37,3 +37,10 @@ p {
   font-weight: bold;
   color: white;
 }
+#foot {
+    background-color: dimgray;
+    font-family: Helvetica;
+    font-size: 11px;
+    color: white;
+    text-align: left;
+}
